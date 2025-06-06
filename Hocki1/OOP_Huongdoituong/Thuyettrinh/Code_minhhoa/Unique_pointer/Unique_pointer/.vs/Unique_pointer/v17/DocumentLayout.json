@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam2_2024_2025\\Hocki1\\TonHoangCam_23110186_OOP\\Thuyettrinh\\Code_minhhoa\\Unique_pointer\\Unique_pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B46CD21-72DF-4CF0-994D-43FC35A81AD6}|Unique_pointer.vcxproj|D:\\Nam2_2024_2025\\Hocki1\\TonHoangCam_23110186_OOP\\Thuyettrinh\\Code_minhhoa\\Unique_pointer\\Unique_pointer\\Unique_pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B46CD21-72DF-4CF0-994D-43FC35A81AD6}|Unique_pointer.vcxproj|solutionrelative:Unique_pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unique_pointer.cpp",
+              "DocumentMoniker": "D:\\Nam2_2024_2025\\Hocki1\\TonHoangCam_23110186_OOP\\Thuyettrinh\\Code_minhhoa\\Unique_pointer\\Unique_pointer\\Unique_pointer.cpp",
+              "RelativeDocumentMoniker": "Unique_pointer.cpp",
+              "ToolTip": "D:\\Nam2_2024_2025\\Hocki1\\TonHoangCam_23110186_OOP\\Thuyettrinh\\Code_minhhoa\\Unique_pointer\\Unique_pointer\\Unique_pointer.cpp",
+              "RelativeToolTip": "Unique_pointer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T11:39:06.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

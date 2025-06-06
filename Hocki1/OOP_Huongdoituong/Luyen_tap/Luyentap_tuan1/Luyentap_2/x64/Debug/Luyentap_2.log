@@ -1,0 +1,35 @@
+﻿  Luyentap_2.cpp
+D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(11,14): error C2819: type 'phanso' does not have an overloaded member 'operator ->'
+      D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(4,7):
+      see declaration of 'phanso'
+      D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(11,14):
+      did you intend to use '.' instead?
+  
+D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(11,15): error C2232: '->phanso::tu': left operand has 'class' type, use '.'
+D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(12,15): error C2819: type 'phanso' does not have an overloaded member 'operator ->'
+      D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(4,7):
+      see declaration of 'phanso'
+      D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(12,15):
+      did you intend to use '.' instead?
+  
+D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(12,16): error C2232: '->phanso::mau': left operand has 'class' type, use '.'
+D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(34,26): error C2512: 'phanso::phanso': no appropriate default constructor available
+      D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(34,26):
+      while trying to match the argument list '()'
+  
+D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(44,26): error C2512: 'phanso::phanso': no appropriate default constructor available
+      D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(44,26):
+      while trying to match the argument list '()'
+  
+D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(58,24): error C2512: 'phanso::phanso': no appropriate default constructor available
+      D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(58,24):
+      while trying to match the argument list '()'
+  
+D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(58,44): error C2512: 'phanso::phanso': no appropriate default constructor available
+      D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(58,44):
+      while trying to match the argument list '()'
+  
+D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(58,64): error C2512: 'phanso::phanso': no appropriate default constructor available
+      D:\TonHoangCam_23110186_OOP\Luyen_tap\Luyentap_tuan1\Luyentap_2\Luyentap_2.cpp(58,64):
+      while trying to match the argument list '()'
+  
