@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam2_2024_2025\\Hocki1\\TonHoangCam_23110186_CautrucdulieuVagiaithuat\\Bai_tap_nop\\BT_Ktra_23_11_2024\\BT_Ktra_code_Hash\\BT_Hash_timkiem_sinhvien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6141C422-1632-433F-9141-066D0F7EA0C6}|BT_Hash_timkiem_sinhvien.vcxproj|D:\\Nam2_2024_2025\\Hocki1\\TonHoangCam_23110186_CautrucdulieuVagiaithuat\\Bai_tap_nop\\BT_Ktra_23_11_2024\\BT_Ktra_code_Hash\\BT_Hash_timkiem_sinhvien\\Hash_timkiem_sinhvien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6141C422-1632-433F-9141-066D0F7EA0C6}|BT_Hash_timkiem_sinhvien.vcxproj|solutionrelative:Hash_timkiem_sinhvien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hash_timkiem_sinhvien.cpp",
+              "DocumentMoniker": "D:\\Nam2_2024_2025\\Hocki1\\TonHoangCam_23110186_CautrucdulieuVagiaithuat\\Bai_tap_nop\\BT_Ktra_23_11_2024\\BT_Ktra_code_Hash\\BT_Hash_timkiem_sinhvien\\Hash_timkiem_sinhvien.cpp",
+              "RelativeDocumentMoniker": "Hash_timkiem_sinhvien.cpp",
+              "ToolTip": "D:\\Nam2_2024_2025\\Hocki1\\TonHoangCam_23110186_CautrucdulieuVagiaithuat\\Bai_tap_nop\\BT_Ktra_23_11_2024\\BT_Ktra_code_Hash\\BT_Hash_timkiem_sinhvien\\Hash_timkiem_sinhvien.cpp",
+              "RelativeToolTip": "Hash_timkiem_sinhvien.cpp",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T02:38:06.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
