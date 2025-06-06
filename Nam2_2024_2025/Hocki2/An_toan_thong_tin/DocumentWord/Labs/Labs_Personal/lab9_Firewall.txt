@@ -1,0 +1,221 @@
+
+  _________    ____   ____  ___  ______   __  _______  ______   _____ ____ 
+  / ____/   |  /  _/  / __ \/   |/_  __/  /  |/  / __ \/_  __/  / ___// __ \
+ / /   / /| |  / /   / / / / /| | / /    / /|_/ / / / / / /     \__ \/ / / /
+/ /___/ ___ |_/ /   / /_/ / ___ |/ /    / /  / / /_/ / / /     ___/ / /_/ / 
+\____/_/  |_/___/  /_____/_/  |_/_/    /_/  /_/\____/ /_/     /____/\____/  
+                                                                            
+    		____  ____________  __   _    ____  __
+   		/ __ \/  _/ ____/ / / /  | |  / / / / /
+  	       / / / // // /   / /_/ /   | | / / / / / 
+              / /_/ // // /___/ __  /    | |/ / /_/ /   (BÁO CÁO LAB 10 4/9/2025) - FIREWALL
+             /_____/___/\____/_/ /_/     |___/\____/   
+                                          
+#-----Cài đặt iptables-----#
+sudo apt-get update
+sudo apt-get install iptables
+
+#-----Cài đặt telnet-----#
+sudo apt-get install telnetd -y
+sudo systemctl start inetd
+sudo systemctl status inetd
+--------------
+sudo apt update
+sudo apt install telnetd openbsd-inetd -y
+sudo systemctl start openbsd-inetd
+sudo systemctl enable openbsd-inetd
+
+#-----Cài đặt dịch vụ FTP (vsftpd)-----#
+sudo apt-get update
+sudo apt-get install vsftpd -y
+sudo systemctl start vsftpd
+sudo systemctl enable vsftpd
+sudo systemctl status vsftpd
+
+#-----Cài đặt dịch vụ HTTP (Apache)-----#
+sudo apt-get update
+sudo apt-get install apache2
+sudo systemctl start apache2
+sudo systemctl enable apache2
+sudo systemctl status apache2
+
+#-----Xóa các quy tắc hiện tại để tránh xung đột với các quy tắc mình cài đặt-----#
+sudo iptables -F
+sudo iptables -X
+
+#-----Thiết lập mặc định từ chối tất cả các kết nối đến và đi-----#
+sudo iptables -P INPUT DROP
+sudo iptables -P OUTPUT DROP
+sudo iptables -P FORWARD DROP
+
+    __ __ ____________  ___   __________  ___ 
+   / //_//  _/ ____/  |/  /  /_  __/ __ \/   |
+  / ,<   / // __/ / /|_/ /    / / / /_/ / /| |
+ / /| |_/ // /___/ /  / /    / / / _, _/ ___ |
+/_/ |_/___/_____/_/  /_/    /_/ /_/ |_/_/  |_|
+                                              
+#-----Kiểm tra các cổng-----#
+#--cổng HTTP--#
+sudo apt-get update
+sudo apt-get install curl
+curl http://<ip>
+
+#--cổng FTP--#
+sudo apt-get install vsftpd -y
+ftp <ip> 21
+USER <tên_người_dùng>
+PASS <mật_khẩu>
+quit
+
+#--Cổng Telnet--#
+sudo apt-get install telnetd
+telnet <ip> 23
+USER <tên_người_dùng>
+PASS <mật_khẩu>
+quit, exit, bye
+
+#--Cổng ICMP--#
+ping <ip>
+
+    _____   ______  __  ________
+   /  _/ | / / __ \/ / / /_  __/
+   / //  |/ / /_/ / / / / / /   
+ _/ // /|  / ____/ /_/ / / /    
+/___/_/ |_/_/    \____/ /_/     
+
+#--Cho phép HTTP đến firewall--#
+sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+#--Cho phép FTP đến firewall--#
+sudo iptables -A INPUT -p tcp --dport 21 -j ACCEPT
+#--Cấm ICMP đến firewall--#
+sudo iptables -A INPUT -p icmp -j DROP
+#--Cấm Telnet đến firewall--#
+sudo iptables -A INPUT -p tcp --dport 23 -j DROP
+
+   ____  __  ____________  __  ________
+  / __ \/ / / /_  __/ __ \/ / / /_  __/
+ / / / / / / / / / / /_/ / / / / / /   
+/ /_/ / /_/ / / / / ____/ /_/ / / /    
+\____/\____/ /_/ /_/    \____/ /_/    
+
+#--Cho phép ICMP từ firewall--#
+sudo iptables -A OUTPUT -p icmp -j ACCEPT
+#--Cho phép Telnet từ firewall--#
+sudo iptables -A OUTPUT -p tcp --dport 23 -j ACCEPT
+#--Cấm HTTP từ firewall--#
+sudo iptables -A OUTPUT -p tcp --dport 80 -j DROP
+#--Cấm FTP từ firewall--#
+sudo iptables -A OUTPUT -p tcp --dport 21 -j DROP
+#--fix lỗi--#
+sudo iptables -I INPUT 1 -p icmp -j ACCEPT
+
+
+  _____ ___ _    ________      ________  ________________ __
+  / ___//   | |  / / ____/     / ____/ / / / ____/ ____/ //_/
+  \__ \/ /| | | / / __/       / /   / /_/ / __/ / /   / ,<   
+ ___/ / ___ | |/ / /___ _    / /___/ __  / /___/ /___/ /| |  
+/____/_/  |_|___/_____/( )   \____/_/ /_/_____/\____/_/ |_|  
+                       |/                                    
+#----#
+sudo ss -tuln | grep :port
+#--Kiểm tra lại rule vừa set--#
+sudo iptables -L -v -n
+#--Lưu lệnh--#
+sudo mkdir -p /etc/iptables
+sudo iptables-save > /etc/iptables/rules.v4 
+sudo iptables-save | sudo tee /etc/iptables/rules.v4 > /dev/null [UBUNTU]
+#--Xóa 1 quy tắc--#
+sudo iptables -L --line-numbers
+sudo iptables -D INPUT 3
+sudo nano /etc/iptales/rules.v4
+#--Lỗi Telnet--#
+sudo apt update
+sudo apt install telnetd openbsd-inetd -y
+sudo systemctl start openbsd-inetd
+sudo systemctl enable openbsd-inetd
+sudo ss -tuln | grep :23 --> vẫn chưa thấy
+sudo nano /etc/inetd.conf
+telnet stream tcp nowait telnetd /usr/sbin/telnetd telnetd
+
+    __________  ____ _       _____    ____  ____ 
+   / ____/ __ \/ __ \ |     / /   |  / __ \/ __ \
+  / /_  / / / / /_/ / | /| / / /| | / /_/ / / / /
+ / __/ / /_/ / _, _/| |/ |/ / ___ |/ _, _/ /_/ / 
+/_/    \____/_/ |_| |__/|__/_/  |_/_/ |_/_____/  
+                                                 
+#--Ý tưởng--# 
++ Thiết lập 3 máy ubuntu: máy 1, máy 2, máy 3 
++ Máy 1 và 3 máy là 2 mạng local khác nhau, máy 2 thiết lập như một router để 2 mạng local này liên kết với nhau
+#--Thực hiện--#
++ Trong firewall, "forward" có thể liên quan đến việc chấp nhận hoặc chặn lưu lượng giữa 2 mạng khác nhau
++ Máy:
+	- Máy 1/4: client ubuntu 
+	- Máy 2: sever ubuntu 
+	- Máy 3: source ubuntu 
+ 
+#--Cài đặt traceroute--#
+sudo apt-get update
+sudo apt-get install traceroute
+traceroute <ip> (tìm đường đi)
+	+ traceroute -T <ip>
+	+ traceroute -I <ip>
+#--Thay đổi cổng--#
+ip route show
+default via <ip> dev ens33 proto dhcp metric 100
+sudo ip route del default (xóa cổng mặc định)
+sudo ip route add default via 192.168.110.170(thêm cổng mới)
+	sudo iptables del <ip>/24 dev ens37
+	sudo iptables del default via <ip>
+
+#--Chặn tcp với imcp đến ...--#
+sudo iptables -A OUTPUT -p tcp -d <ip> -j DROP
+sudo iptables -A OUTPUT -p icmp -d <ip> -j DROP
+sudo iptables -A OUTPUT -d <ip> -j DROP
+
+#-Thêm static route trên local 1 và local 3-#
+sudo ip route add 192.168.121.0/24 via 192.168.110.170
+sudo ip route add 192.168.110.0/24 via 192.168.121.138
+
+#--Cấu hình router--#
+sudo nano /etc/netplan/01-netcfg.yaml ==> cat /proc/sys/net/ipv4/ip_forward
+sudo netplan apply
+sudo sysctl -w net.ipv4.ip_forward=1
+sudo nano /etc/sysctl.conf
+sudo sysctl -p
+sudo iptables -A FORWARD -d <ip> -j DROP
+sudo systemctl restart systemd-networkd
+sudo netplan apply
+sudo iptables -A FORWARD -i ens33 -o ens37 -j ACCEPT
+sudo iptables -A FORWARD -i ens37 -o ens33 -j ACCEPT
+sudo iptables -D FORWARD 1
+#--network--#
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    ens37:
+      addresses:
+        - 192.168.110.170/24
+      gateway4: 192.168.110.1
+      nameservers:
+        addresses:
+          - 8.8.8.8
+          - 8.8.4.4
+sudo iptables -A FORWARD -s 192.168.110.175 -d 192.168.121.134 -j DROP
+sudo iptables -A FORWARD -s 192.168.110.175 -d 192.168.121.134 -j ACCEPT
+sudo iptables -A FORWARD -s 192.168.121.134 -d 192.168.110.175 -j DROP
+
+
+    _   _____  ______   ____  __  ________
+   / | / /   |/_  __/  / __ \/ / / /_  __/
+  /  |/ / /| | / /    / / / / / / / / /   
+ / /|  / ___ |/ /    / /_/ / /_/ / / /    
+/_/ |_/_/  |_/_/     \____/\____/ /_/     
+                                          
+##--Cho mạng ens37 ra ngoài internet--#
+sudo iptables -t nat -L -n -v
+sudo iptables -t nat -A POSTROUTING -s 192.168.110.0/24 -o ens38 -j MASQUERADE
+
+
+#--Xóa quy tắc MASQUERADE--#
+sudo iptables -t nat -D POSTROUTING -s 192.168.110.0/24 -o ens38 -j MASQUERADE                                              
