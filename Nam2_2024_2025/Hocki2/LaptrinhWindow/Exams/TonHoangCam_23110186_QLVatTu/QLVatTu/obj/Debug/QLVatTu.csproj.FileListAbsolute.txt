@@ -1,0 +1,11 @@
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\bin\Debug\QLVatTu.exe.config
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\bin\Debug\QLVatTu.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\bin\Debug\QLVatTu.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\obj\Debug\QLVatTu.csproj.AssemblyReference.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\obj\Debug\QLVatTu.Properties.Resources.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\obj\Debug\QLVatTu.csproj.GenerateResource.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\obj\Debug\QLVatTu.csproj.CoreCompileInputs.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\obj\Debug\QLVatTu.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\obj\Debug\QLVatTu.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\obj\Debug\QLVatTu.frm_menu.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Kiemtra\QLVatTu\obj\Debug\QLVatTu.frm_qlvattu.resources

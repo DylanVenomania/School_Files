@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DatabaseText">
+  <DataContextMoniker Name="/QLVatTuDataContext" />
+  <nestedChildShapes>
+    <classShape Id="bab0256e-a919-41f5-bc7c-521bf0f54920" absoluteBounds="3.125, 1.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QLVatTuDataContext/VatTu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cf7cf882-903d-4618-9ebb-29b558609b89" absoluteBounds="3.14, 2.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
