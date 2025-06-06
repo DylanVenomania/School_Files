@@ -1,0 +1,1 @@
+File .rpt ở các project có nhiều form thì cần để chung folder với file .exe của project ( /Bin/Debug/ )
