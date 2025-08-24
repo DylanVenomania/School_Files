@@ -1,1 +1,2 @@
-"# C�ng Ngh? Ph?n M?m - H?c k? 1 Nam 3" 
+## Năm 3 2025 - 2026 
+### Cố lên Tôn Hoàng Cầm
