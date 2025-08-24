@@ -1,0 +1,17 @@
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\bin\Debug\net8.0-windows\Bai2.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\bin\Debug\net8.0-windows\Bai2.deps.json
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\bin\Debug\net8.0-windows\Bai2.runtimeconfig.json
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\bin\Debug\net8.0-windows\Bai2.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\bin\Debug\net8.0-windows\Bai2.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\Bai2.Form1.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\Bai2.Properties.Resources.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\Bai2.csproj.GenerateResource.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\Bai2.AssemblyInfoInputs.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\Bai2.AssemblyInfo.cs
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\Bai2.csproj.CoreCompileInputs.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\Bai2.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\refint\Bai2.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\Bai2.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\Bai2.genruntimeconfig.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Baitapthuchanh1\Bai2\Bai2\obj\Debug\net8.0-windows\ref\Bai2.dll

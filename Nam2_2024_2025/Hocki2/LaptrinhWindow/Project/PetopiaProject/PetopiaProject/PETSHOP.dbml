@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PETSHOP" Class="PETSHOPDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=PETSHOP;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="Pet_Shop_Management_interface.Properties.Settings" SettingsPropertyName="PETSHOPConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CASH" Member="CASHes">
+    <Type Name="CASH">
+      <Column Name="CashID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TransNo" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Pcode" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Qty" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Price" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Total" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CustomerID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CashierID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="CUSTOMER_CASH" Member="CUSTOMER" ThisKey="CustomerID" OtherKey="ID" Type="CUSTOMER" IsForeignKey="true" DeleteRule="SET NULL" />
+      <Association Name="PRODUCT_CASH" Member="PRODUCT" ThisKey="Pcode" OtherKey="Pcode" Type="PRODUCT" IsForeignKey="true" DeleteRule="SET NULL" />
+      <Association Name="USER_CASH" Member="USER" ThisKey="CashierID" OtherKey="ID" Type="USER" IsForeignKey="true" DeleteRule="SET NULL" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BILL" Member="BILLs">
+    <Type Name="BILL">
+      <Column Name="BillID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TransNo" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="CustomerID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Pcode" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="BillDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="PRODUCT_BILL" Member="PRODUCT" ThisKey="Pcode" OtherKey="Pcode" Type="PRODUCT" IsForeignKey="true" DeleteRule="SET NULL" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CUSTOMER" Member="CUSTOMERs">
+    <Type Name="CUSTOMER">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="CUSTOMER_CASH" Member="CASHes" ThisKey="ID" OtherKey="CustomerID" Type="CASH" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PRODUCT" Member="PRODUCTs">
+    <Type Name="PRODUCT">
+      <Column Name="Pcode" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Category" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Qty" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Price" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="PRODUCT_CASH" Member="CASHes" ThisKey="Pcode" OtherKey="Pcode" Type="CASH" />
+      <Association Name="PRODUCT_BILL" Member="BILLs" ThisKey="Pcode" OtherKey="Pcode" Type="BILL" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[USER]" Member="USERs">
+    <Type Name="USER">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Role" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Dateofbirth" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="Balance" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="OTP" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="USER_CASH" Member="CASHes" ThisKey="ID" OtherKey="CashierID" Type="CASH" />
+    </Type>
+  </Table>
+</Database>

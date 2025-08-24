@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Mang_lienket.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Caihamcoban.cpp
+  Mang_lienket.vcxproj -> D:\Nam2_2024_2025\Hocki1\TonHoangCam_23110186_Cautrucdulieu&giaithuat\Bai_on_tren_lop\Mang_lienket\x64\Debug\a_caihamcoban.exe

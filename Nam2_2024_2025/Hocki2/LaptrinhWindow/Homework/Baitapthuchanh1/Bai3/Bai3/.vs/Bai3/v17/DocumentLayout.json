@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam2_2024_2025\\Hocki2\\LaptrinhWindow\\Baitapthuchanh1\\Bai3\\Bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB16FC-369D-4A1B-9D26-7518F905B7D0}|Bai3.csproj|d:\\nam2_2024_2025\\hocki2\\laptrinhwindow\\baitapthuchanh1\\bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73DB16FC-369D-4A1B-9D26-7518F905B7D0}|Bai3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB16FC-369D-4A1B-9D26-7518F905B7D0}|Bai3.csproj|d:\\nam2_2024_2025\\hocki2\\laptrinhwindow\\baitapthuchanh1\\bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB16FC-369D-4A1B-9D26-7518F905B7D0}|Bai3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB16FC-369D-4A1B-9D26-7518F905B7D0}|Bai3.csproj|d:\\nam2_2024_2025\\hocki2\\laptrinhwindow\\baitapthuchanh1\\bai3\\bai3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB16FC-369D-4A1B-9D26-7518F905B7D0}|Bai3.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Nam2_2024_2025\\Hocki2\\LaptrinhWindow\\Baitapthuchanh1\\Bai3\\Bai3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Nam2_2024_2025\\Hocki2\\LaptrinhWindow\\Baitapthuchanh1\\Bai3\\Bai3\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAIAwwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:19:43.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Nam2_2024_2025\\Hocki2\\LaptrinhWindow\\Baitapthuchanh1\\Bai3\\Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Nam2_2024_2025\\Hocki2\\LaptrinhWindow\\Baitapthuchanh1\\Bai3\\Bai3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:11:57.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Nam2_2024_2025\\Hocki2\\LaptrinhWindow\\Baitapthuchanh1\\Bai3\\Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Nam2_2024_2025\\Hocki2\\LaptrinhWindow\\Baitapthuchanh1\\Bai3\\Bai3\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:07:42.632Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

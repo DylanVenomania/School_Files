@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577FB52A-ED27-4A74-9E28-EE3945BC7FC1}|Sapxepsinhvien\\Sapxepsinhvien.vcxproj|D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\Sapxepsinhvien\\Sapxepsinhvien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{577FB52A-ED27-4A74-9E28-EE3945BC7FC1}|Sapxepsinhvien\\Sapxepsinhvien.vcxproj|solutionrelative:Sapxepsinhvien\\Sapxepsinhvien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F576352B-AC57-4231-89DE-38FFFC30E9D2}|SelectionSort\\SelectionSort.vcxproj|D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\SelectionSort\\SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F576352B-AC57-4231-89DE-38FFFC30E9D2}|SelectionSort\\SelectionSort.vcxproj|solutionrelative:SelectionSort\\SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF7BFAC-CD42-44F6-A292-5AC1F49EC09E}|BubbleSort\\BubbleSort.vcxproj|D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\BubbleSort\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BF7BFAC-CD42-44F6-A292-5AC1F49EC09E}|BubbleSort\\BubbleSort.vcxproj|solutionrelative:BubbleSort\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D0B87A-AACD-4B5A-8434-71728D0982B2}|InsertionSort\\InsertionSort.vcxproj|D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\InsertionSort\\InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28D0B87A-AACD-4B5A-8434-71728D0982B2}|InsertionSort\\InsertionSort.vcxproj|solutionrelative:InsertionSort\\InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31877C0F-C98F-46D4-A2EC-55AF48BC316F}|QuickSort\\QuickSort.vcxproj|D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\QuickSort\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31877C0F-C98F-46D4-A2EC-55AF48BC316F}|QuickSort\\QuickSort.vcxproj|solutionrelative:QuickSort\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941CA231-CA12-4540-8FBF-45ECCD6AFB0B}|ShakeSort\\ShakeSort.vcxproj|D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\ShakeSort\\ShakeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{941CA231-CA12-4540-8FBF-45ECCD6AFB0B}|ShakeSort\\ShakeSort.vcxproj|solutionrelative:ShakeSort\\ShakeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0F706C-B6EF-47DC-89F2-E1CA9DDDFD0E}|InsertionSort c\u1EA3i ti\u1EBFn (Binary Insertion Sort)\\InsertionSort c\u1EA3i ti\u1EBFn (Binary Insertion Sort).vcxproj|D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\InsertionSort c\u1EA3i ti\u1EBFn (Binary Insertion Sort)\\InsertionSortcaitien_BinaryInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F0F706C-B6EF-47DC-89F2-E1CA9DDDFD0E}|InsertionSort c\u1EA3i ti\u1EBFn (Binary Insertion Sort)\\InsertionSort c\u1EA3i ti\u1EBFn (Binary Insertion Sort).vcxproj|solutionrelative:InsertionSort c\u1EA3i ti\u1EBFn (Binary Insertion Sort)\\InsertionSortcaitien_BinaryInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sapxepsinhvien.cpp",
+              "DocumentMoniker": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\Sapxepsinhvien\\Sapxepsinhvien.cpp",
+              "RelativeDocumentMoniker": "Sapxepsinhvien\\Sapxepsinhvien.cpp",
+              "ToolTip": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\Sapxepsinhvien\\Sapxepsinhvien.cpp",
+              "RelativeToolTip": "Sapxepsinhvien\\Sapxepsinhvien.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T16:39:41.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertionSortcaitien_BinaryInsertionSort.cpp",
+              "DocumentMoniker": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\InsertionSort c\u1EA3i ti\u1EBFn (Binary Insertion Sort)\\InsertionSortcaitien_BinaryInsertionSort.cpp",
+              "RelativeDocumentMoniker": "InsertionSort c\u1EA3i ti\u1EBFn (Binary Insertion Sort)\\InsertionSortcaitien_BinaryInsertionSort.cpp",
+              "ToolTip": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\InsertionSort c\u1EA3i ti\u1EBFn (Binary Insertion Sort)\\InsertionSortcaitien_BinaryInsertionSort.cpp",
+              "RelativeToolTip": "InsertionSort c\u1EA3i ti\u1EBFn (Binary Insertion Sort)\\InsertionSortcaitien_BinaryInsertionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T15:12:28.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShakeSort.cpp",
+              "DocumentMoniker": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\ShakeSort\\ShakeSort.cpp",
+              "RelativeDocumentMoniker": "ShakeSort\\ShakeSort.cpp",
+              "ToolTip": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\ShakeSort\\ShakeSort.cpp",
+              "RelativeToolTip": "ShakeSort\\ShakeSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T14:43:53.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuickSort.cpp",
+              "DocumentMoniker": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\QuickSort\\QuickSort.cpp",
+              "RelativeDocumentMoniker": "QuickSort\\QuickSort.cpp",
+              "ToolTip": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\QuickSort\\QuickSort.cpp",
+              "RelativeToolTip": "QuickSort\\QuickSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T14:38:22.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertionSort.cpp",
+              "DocumentMoniker": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\InsertionSort\\InsertionSort.cpp",
+              "RelativeDocumentMoniker": "InsertionSort\\InsertionSort.cpp",
+              "ToolTip": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\InsertionSort\\InsertionSort.cpp",
+              "RelativeToolTip": "InsertionSort\\InsertionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T14:35:39.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BubbleSort.cpp",
+              "DocumentMoniker": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\BubbleSort\\BubbleSort.cpp",
+              "RelativeDocumentMoniker": "BubbleSort\\BubbleSort.cpp",
+              "ToolTip": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\BubbleSort\\BubbleSort.cpp",
+              "RelativeToolTip": "BubbleSort\\BubbleSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T14:34:34.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectionSort.cpp",
+              "DocumentMoniker": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\SelectionSort\\SelectionSort.cpp",
+              "RelativeDocumentMoniker": "SelectionSort\\SelectionSort.cpp",
+              "ToolTip": "D:\\TonHoangCam_23110186_Cautrucdulieu\u0026giaithuat\\Tuan1_DASA230179_10__23110186\\SelectionSort\\SelectionSort.cpp",
+              "RelativeToolTip": "SelectionSort\\SelectionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T14:33:32.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

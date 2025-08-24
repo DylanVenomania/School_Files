@@ -1,0 +1,8 @@
+0 3 
+sheep,con cuu
+mother, me
+water, nuoc
+0 2
+drink, uong
+learn, hoc
+2 water

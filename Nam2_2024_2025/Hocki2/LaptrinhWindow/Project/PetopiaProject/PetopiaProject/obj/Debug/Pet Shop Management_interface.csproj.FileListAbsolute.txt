@@ -1,0 +1,821 @@
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe.config
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\Guna.UI2.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe.config
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.pdb
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\bin\Debug\Guna.UI2.dll
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.exe
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.pdb
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\HK4_Year2\ProgrammingOnWindows(C#)\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe.config
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.pdb
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\Guna.UI2.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.exe
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.pdb
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.Shared.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\bin\Debug\stdole.dll
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+D:\HK4_Year2\Winform-Project\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe.config
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.Shared.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\Guna.UI2.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\bin\Debug\stdole.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.pdb
+D:\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe.config
+D:\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe
+D:\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.pdb
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.Shared.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Pet Shop Management_interface\bin\Debug\Guna.UI2.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Pet Shop Management_interface\bin\Debug\stdole.dll
+D:\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\Pet Shop Management_interface\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.exe
+D:\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.pdb
+D:\Pet Shop Management_interface\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Pet Shop Management_interface\bin\Debug\ClosedXML.dll
+D:\Pet Shop Management_interface\bin\Debug\ClosedXML.Parser.dll
+D:\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Pet Shop Management_interface\bin\Debug\ExcelNumberFormat.dll
+D:\Pet Shop Management_interface\bin\Debug\itextsharp.dll
+D:\Pet Shop Management_interface\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Pet Shop Management_interface\bin\Debug\RBush.dll
+D:\Pet Shop Management_interface\bin\Debug\SixLabors.Fonts.dll
+D:\Pet Shop Management_interface\bin\Debug\System.Buffers.dll
+D:\Pet Shop Management_interface\bin\Debug\System.Memory.dll
+D:\Pet Shop Management_interface\bin\Debug\System.Numerics.Vectors.dll
+D:\Pet Shop Management_interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pet Shop Management_interface\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Pet Shop Management_interface\bin\Debug\ClosedXML.pdb
+D:\Pet Shop Management_interface\bin\Debug\ClosedXML.xml
+D:\Pet Shop Management_interface\bin\Debug\ClosedXML.Parser.xml
+D:\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Pet Shop Management_interface\bin\Debug\ExcelNumberFormat.xml
+D:\Pet Shop Management_interface\bin\Debug\itextsharp.xml
+D:\Pet Shop Management_interface\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Pet Shop Management_interface\bin\Debug\RBush.xml
+D:\Pet Shop Management_interface\bin\Debug\SixLabors.Fonts.xml
+D:\Pet Shop Management_interface\bin\Debug\System.Buffers.xml
+D:\Pet Shop Management_interface\bin\Debug\System.Memory.xml
+D:\Pet Shop Management_interface\bin\Debug\System.Numerics.Vectors.xml
+D:\Pet Shop Management_interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangePassword.resources
+D:\Pet Shop Management_interface - Copy\bin\Debug\Pet Shop Management_interface.exe.config
+D:\Pet Shop Management_interface - Copy\bin\Debug\Pet Shop Management_interface.exe
+D:\Pet Shop Management_interface - Copy\bin\Debug\Pet Shop Management_interface.pdb
+D:\Pet Shop Management_interface - Copy\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\ClosedXML.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\ClosedXML.Parser.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.Shared.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\ExcelNumberFormat.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\Guna.UI2.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\itextsharp.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\RBush.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\SixLabors.Fonts.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\System.Buffers.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\System.Memory.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\System.Numerics.Vectors.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\stdole.dll
+D:\Pet Shop Management_interface - Copy\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\ClosedXML.pdb
+D:\Pet Shop Management_interface - Copy\bin\Debug\ClosedXML.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\ClosedXML.Parser.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\ExcelNumberFormat.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\itextsharp.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\RBush.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\SixLabors.Fonts.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\System.Buffers.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\System.Memory.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\System.Numerics.Vectors.xml
+D:\Pet Shop Management_interface - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.ChangePassword.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.ForgotPassword.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet Shop Management_interface.exe
+D:\Pet Shop Management_interface - Copy\obj\Debug\Pet Shop Management_interface.pdb
+D:\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ForgotPassword.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe.config
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.exe
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\Pet Shop Management_interface.pdb
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\ClosedXML.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\ClosedXML.Parser.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.Shared.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\ExcelNumberFormat.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\Guna.UI2.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\itextsharp.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\RBush.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\SixLabors.Fonts.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\System.Buffers.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\System.Memory.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\System.Numerics.Vectors.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\stdole.dll
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\ClosedXML.pdb
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\ClosedXML.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\ClosedXML.Parser.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\ExcelNumberFormat.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\itextsharp.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\RBush.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\SixLabors.Fonts.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\System.Buffers.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\System.Memory.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\System.Numerics.Vectors.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangePassword.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ForgotPassword.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.exe
+D:\Winform\Code(chưa hoàn thiện)\Pet Shop Management_interface\obj\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\ClosedXML.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\ClosedXML.Parser.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.Shared.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\ExcelNumberFormat.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\itextsharp.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\RBush.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\SixLabors.Fonts.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\System.Buffers.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\System.Memory.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\System.Numerics.Vectors.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\stdole.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\ClosedXML.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\ClosedXML.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\ClosedXML.Parser.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\ExcelNumberFormat.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\itextsharp.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\RBush.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\SixLabors.Fonts.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\System.Buffers.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\System.Memory.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\System.Numerics.Vectors.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ChangePassword.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ForgotPassword.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\Pet Shop Management_interface\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\Pet Shop Management_interface.exe.config
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\Pet Shop Management_interface.exe
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\Pet Shop Management_interface.pdb
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\ClosedXML.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\ClosedXML.Parser.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.Shared.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\ExcelNumberFormat.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\Guna.UI2.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\itextsharp.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\RBush.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\SixLabors.Fonts.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\System.Buffers.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\System.Memory.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\System.Numerics.Vectors.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\stdole.dll
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\ClosedXML.pdb
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\ClosedXML.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\ClosedXML.Parser.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\ExcelNumberFormat.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\itextsharp.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\RBush.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\SixLabors.Fonts.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\System.Buffers.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\System.Memory.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\System.Numerics.Vectors.xml
+D:\Winform\Pet Shop Management_interface_mới\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.ChangePassword.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.ForgotPassword.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.RecentCash.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet Shop Management_interface.exe
+D:\Winform\Pet Shop Management_interface_mới\obj\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\Pet Shop Management_interface.exe.config
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\Pet Shop Management_interface.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\ClosedXML.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\ClosedXML.Parser.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.Shared.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\ExcelNumberFormat.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\Guna.UI2.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\itextsharp.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\RBush.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\SixLabors.Fonts.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\System.Buffers.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\System.Memory.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\System.Numerics.Vectors.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\stdole.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\ClosedXML.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\ClosedXML.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\ClosedXML.Parser.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\ExcelNumberFormat.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\itextsharp.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\RBush.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\SixLabors.Fonts.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\System.Buffers.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\System.Memory.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\System.Numerics.Vectors.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangePassword.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ForgotPassword.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.RecentCash.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet Shop Management_interface.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserProductForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\Pet Shop Management_interface.exe.config
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\Pet Shop Management_interface.exe
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\Pet Shop Management_interface.pdb
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\ClosedXML.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\RBush.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\stdole.dll
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\ClosedXML.pdb
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\ClosedXML.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\itextsharp.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\RBush.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangePassword.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ForgotPassword.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.RecentCash.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserProductForm.resources
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet Shop.B3F236A4.Up2Date
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet Shop Management_interface.exe
+C:\Users\ADMIN\Downloads\PetopiaProject\obj\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\Pet Shop Management_interface.exe.config
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\Pet Shop Management_interface.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\ClosedXML.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\ClosedXML.Parser.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.Shared.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\ExcelNumberFormat.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\Guna.UI2.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\itextsharp.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\RBush.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\SixLabors.Fonts.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\System.Buffers.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\System.Memory.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\System.Numerics.Vectors.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\stdole.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\ClosedXML.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\ClosedXML.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\ClosedXML.Parser.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\ExcelNumberFormat.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\itextsharp.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\RBush.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\SixLabors.Fonts.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\System.Buffers.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\System.Memory.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\System.Numerics.Vectors.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangePassword.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ForgotPassword.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.RecentCash.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserProductForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet Shop Management_interface.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject(final)\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.StatisticsForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\Pet Shop Management_interface.exe.config
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\Pet Shop Management_interface.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\Pet Shop Management_interface.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\ClosedXML.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\ClosedXML.Parser.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.Shared.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\ExcelNumberFormat.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\Guna.UI2.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\itextsharp.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\RBush.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\SixLabors.Fonts.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\System.Buffers.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\System.Memory.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\System.Numerics.Vectors.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\stdole.dll
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\ClosedXML.pdb
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\ClosedXML.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\ClosedXML.Parser.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\ExcelNumberFormat.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\itextsharp.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\RBush.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\SixLabors.Fonts.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\System.Buffers.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\System.Memory.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\System.Numerics.Vectors.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.AssemblyReference.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashCustomer.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CashProduct.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangeAvatar.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangeAvatarAdmin.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ChangePassword.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CustomerForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.CustomerModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Dashboard.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ForgotPassword.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.HistoryForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Invoice.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.LoginForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.MainForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ProductForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.ProductModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.Properties.Resources.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.RecentCash.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.SplashForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.StatisticsForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserMainForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserModule.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet_Shop_Management_interface.UserProductForm.resources
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.GenerateResource.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet Shop Management_interface.csproj.CoreCompileInputs.cache
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet Shop.B3F236A4.Up2Date
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet Shop Management_interface.exe
+D:\Nam2_2024_2025\Hocki2\LaptrinhWindow\Do_an\PetopiaProject\PetopiaProject\obj\Debug\Pet Shop Management_interface.pdb

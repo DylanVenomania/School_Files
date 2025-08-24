@@ -1,0 +1,653 @@
+import gzip
+from bs4 import BeautifulSoup
+
+def format_and_compress_html_to_hex(html_content: str) -> str:
+    """Làm sạch, định dạng và nén một đoạn mã HTML thành chuỗi hex dạng 0x.."""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    formatted_html = soup.prettify()
+    compressed_data = gzip.compress(formatted_html.encode('utf-8'))
+    
+    # Chuyển dữ liệu nén sang dạng chuỗi hex
+    hex_representation = ', '.join(f'0x{b:02X}' for b in compressed_data)
+    return hex_representation
+
+# Ví dụ HTML với định dạng không chuẩn
+html_code = """
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ESP32 OV2460</title>
+    <style>
+        body {
+            font-family: Arial,Helvetica,sans-serif;
+            background: #181818;
+            color: #EFEFEF;
+            font-size: 16px
+        }
+
+        h2 {
+            font-size: 18px
+        }
+
+        section.main {
+            display: flex
+        }
+
+        #menu,section.main {
+            flex-direction: column
+        }
+
+        #menu {
+            display: none;
+            flex-wrap: nowrap;
+            min-width: 340px;
+            background: #363636;
+            padding: 8px;
+            border-radius: 4px;
+            margin-top: -10px;
+            margin-right: 10px;
+        }
+
+        #content {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: stretch
+        }
+
+        figure {
+            padding: 0px;
+            margin: 0;
+            -webkit-margin-before: 0;
+            margin-block-start: 0;
+            -webkit-margin-after: 0;
+            margin-block-end: 0;
+            -webkit-margin-start: 0;
+            margin-inline-start: 0;
+            -webkit-margin-end: 0;
+            margin-inline-end: 0
+        }
+
+        figure img {
+            display: block;
+            width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin-top: 8px;
+        }
+
+        @media (min-width: 800px) and (orientation:landscape) {
+            #content {
+                display:flex;
+                flex-wrap: nowrap;
+                align-items: stretch
+            }
+
+            figure img {
+                display: block;
+                max-width: 100%;
+                max-height: calc(100vh - 40px);
+                width: auto;
+                height: auto
+            }
+
+            figure {
+                padding: 0 0 0 0px;
+                margin: 0;
+                -webkit-margin-before: 0;
+                margin-block-start: 0;
+                -webkit-margin-after: 0;
+                margin-block-end: 0;
+                -webkit-margin-start: 0;
+                margin-inline-start: 0;
+                -webkit-margin-end: 0;
+                margin-inline-end: 0
+            }
+        }
+
+        section#buttons {
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: space-between
+        }
+
+        #nav-toggle {
+            cursor: pointer;
+            display: block
+        }
+
+        #nav-toggle-cb {
+            outline: 0;
+            opacity: 0;
+            width: 0;
+            height: 0
+        }
+
+        #nav-toggle-cb:checked+#menu {
+            display: flex
+        }
+
+        .input-group {
+            display: flex;
+            flex-wrap: nowrap;
+            line-height: 22px;
+            margin: 5px 0
+        }
+
+        .input-group>label {
+            display: inline-block;
+            padding-right: 10px;
+            min-width: 47%
+        }
+
+        .input-group input,.input-group select {
+            flex-grow: 1
+        }
+
+        .range-max,.range-min {
+            display: inline-block;
+            padding: 0 5px
+        }
+
+        button {
+            display: block;
+            margin: 5px;
+            padding: 0 12px;
+            border: 0;
+            line-height: 28px;
+            cursor: pointer;
+            color: #fff;
+            background: #ff3034;
+            border-radius: 5px;
+            font-size: 16px;
+            outline: 0
+        }
+
+        button:hover {
+            background: #ff494d
+        }
+
+        button:active {
+            background: #f21c21
+        }
+
+        button.disabled {
+            cursor: default;
+            background: #a0a0a0
+        }
+
+        input[type=range] {
+            appearance: none;
+            -webkit-appearance: none;
+            width: 100%;
+            height: 22px;
+            background: #363636;
+            cursor: pointer;
+            margin: 0
+        }
+        
+
+        input[type=range]:focus {
+            outline: 0
+        }
+
+        input[type=range]::-webkit-slider-runnable-track {
+            width: 100%;
+            height: 2px;
+            cursor: pointer;
+            background: #EFEFEF;
+            border-radius: 0;
+            border: 0 solid #EFEFEF
+        }
+
+        input[type=range]::-webkit-slider-thumb {
+            border: 1px solid rgba(0,0,30,0);
+            height: 22px;
+            width: 22px;
+            border-radius: 50px;
+            background: #ff3034;
+            cursor: pointer;
+            -webkit-appearance: none;
+            margin-top: -11.5px
+        }
+
+        input[type=range]:focus::-webkit-slider-runnable-track {
+            background: #EFEFEF
+        }
+
+        input[type=range]::-moz-range-track {
+            width: 100%;
+            height: 2px;
+            cursor: pointer;
+            background: #EFEFEF;
+            border-radius: 0;
+            border: 0 solid #EFEFEF
+        }
+
+        input[type=range]::-moz-range-thumb {
+            border: 1px solid rgba(0,0,30,0);
+            height: 22px;
+            width: 22px;
+            border-radius: 50px;
+            background: #ff3034;
+            cursor: pointer
+        }
+
+        input[type=range]::-ms-track {
+            width: 100%;
+            height: 2px;
+            cursor: pointer;
+            background: 0 0;
+            border-color: transparent;
+            color: transparent
+        }
+
+        input[type=range]::-ms-fill-lower {
+            background: #EFEFEF;
+            border: 0 solid #EFEFEF;
+            border-radius: 0
+        }
+
+        input[type=range]::-ms-fill-upper {
+            background: #EFEFEF;
+            border: 0 solid #EFEFEF;
+            border-radius: 0
+        }
+
+        input[type=range]::-ms-thumb {
+            border: 1px solid rgba(0,0,30,0);
+            height: 22px;
+            width: 22px;
+            border-radius: 50px;
+            background: #ff3034;
+            cursor: pointer;
+            height: 2px
+        }
+
+        input[type=range]:focus::-ms-fill-lower {
+            background: #EFEFEF
+        }
+
+        input[type=range]:focus::-ms-fill-upper {
+            background: #363636
+        }
+
+        .switch {
+            display: block;
+            position: relative;
+            line-height: 22px;
+            font-size: 16px;
+            height: 22px
+        }
+
+        .switch input {
+            outline: 0;
+            opacity: 0;
+            width: 0;
+            height: 0
+        }
+
+        .slider {
+            width: 50px;
+            height: 22px;
+            border-radius: 22px;
+            cursor: pointer;
+            background-color: grey
+        }
+
+        .slider,.slider:before {
+            display: inline-block;
+            transition: .4s
+        }
+
+        .slider:before {
+            position: relative;
+            content: "";
+            border-radius: 50%;
+            height: 16px;
+            width: 16px;
+            left: 4px;
+            top: 3px;
+            background-color: #fff
+        }
+
+        input:checked+.slider {
+            background-color: #ff3034
+        }
+
+        input:checked+.slider:before {
+            -webkit-transform: translateX(26px);
+            transform: translateX(26px)
+        }
+
+        select {
+            border: 1px solid #363636;
+            font-size: 14px;
+            height: 22px;
+            outline: 0;
+            border-radius: 5px
+        }
+
+        .image-container {
+            position: relative;
+            min-width: 160px
+        }
+
+        .close {
+            position: absolute;
+            right: 5px;
+            top: 5px;
+            background: #ff3034;
+            width: 16px;
+            height: 16px;
+            border-radius: 100px;
+            color: #fff;
+            text-align: center;
+            line-height: 18px;
+            cursor: pointer
+        }
+
+        .hidden {
+            display: none
+        }
+    </style>
+</head>
+<body>
+    <section class="main">
+        <div id="logo">
+            <label for="nav-toggle-cb" id="nav-toggle">☰ Toggle OV2640 settings</label>
+        </div>
+        <div id="content">
+            <div id="sidebar">
+                <input type="checkbox" id="nav-toggle-cb" checked>
+                <nav id="menu">
+                    <div class="input-group">
+                        <label for="framesize">Resolution</label>
+                        <select id="framesize" class="default-action">
+                            <option value="5" selected>CIF(400x296)</option>
+                            <option value="4">QVGA(320x240)</option>
+                            <option value="3">HQVGA(240x176)</option>
+                            <option value="0">QQVGA(160x120)</option>
+                        </select>
+                    </div>
+                    <div class="input-group" id="face-controls">
+                        <label for="face_detect">Face Detection</label>
+                        <div class="switch">
+                            <input id="face_detect" type="checkbox" class="default-action" checked>
+                            <label class="slider" for="face_detect"></label>
+                        </div>
+                    </div>
+                    <div class="input-group" id="face-recognition-controls">
+                        <label for="face_recognize">Face Recognition</label>
+                        <div class="switch">
+                            <input id="face_recognize" type="checkbox" class="default-action" checked>
+                            <label class="slider" for="face_recognize"></label>
+                        </div>
+                    </div>
+                    <div class="input-group" id="face-enroll-controls">
+                        <label for="face_enroll">Face Enrollment</label>
+                        <div class="switch">
+                            <input id="face_enroll" type="checkbox" class="default-action">
+                            <label class="slider" for="face_enroll"></label>
+                        </div>
+                    </div>
+                    <div id="buttons">
+                        <button id="get-still">Get Still</button>
+                        <button id="toggle-stream">Start Stream</button>
+                        <button id="save-image">Save Image</button>
+                    </div>
+                    <hr style="width:100%">
+                    <label for="ftp" class="toggle-section-label">&#9776;&nbsp;&nbsp;SD Card Settings</label><input type="checkbox" id="ftp" class="hidden toggle-section-button" checked="checked">
+                    <section class="toggle-section">
+                        <div class="input-group">
+                            <label for="maxImages">Maximum Images:</label>
+                            <input type="number" id="maxImages" value="100" min="1" max="1000" class="default-action">
+                        </div>
+                        <div class="input-group">
+                            <label for="maxStorageMB">Maximum Storage (MB):</label>
+                            <input type="number" id="maxStorageMB" value="100" min="1" max="1000" class="default-action">
+                        </div>
+                        <div class="input-group">
+                            <label for="cleanupInterval">Cleanup Interval (minutes):</label>
+                            <input type="number" id="cleanupInterval" value="60" min="1" max="1440" class="default-action">
+                        </div>
+                        <button id="saveCleanupSettings" class="button">Save Settings</button>
+                    </section>
+                </nav>
+            </div>
+            <figure>
+                <div id="stream-container" class="image-container hidden">
+                    <div class="close" id="close-stream">×</div>
+                    <img id="stream" src="" crossorigin>
+                </div>
+            </figure>
+        </div>
+    </section>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const baseHost = document.location.origin;
+            const streamUrl = baseHost + ':81';
+
+            const hide = el => el.classList.add('hidden');
+            const show = el => el.classList.remove('hidden');
+            const disable = el => {
+                el.classList.add('disabled');
+                el.disabled = true;
+            };
+            const enable = el => {
+                el.classList.remove('disabled');
+                el.disabled = false;
+            };
+
+            const updateValue = (el, value, updateRemote = true) => {
+                let initialValue;
+                if (el.type === 'checkbox') {
+                    initialValue = el.checked;
+                    value = !!value;
+                    el.checked = value;
+                } else {
+                    initialValue = el.value;
+                    el.value = value;
+                }
+                if (updateRemote && initialValue !== value) {
+                    updateConfig(el);
+                } else if (!updateRemote && el.id === 'face_recognize') {
+                    value ? enable(enrollButton) : disable(enrollButton);
+                }
+            };
+
+            function updateConfig(el) {
+                let value;
+                switch (el.type) {
+                    case 'checkbox':
+                        value = el.checked ? 1 : 0;
+                        break;
+                    case 'select-one':
+                        value = el.value;
+                        break;
+                    case 'button':
+                        value = '1';
+                        break;
+                    default:
+                        return;
+                }
+                fetch(`${baseHost}/control?var=${el.id}&val=${value}`)
+                    .then(response => console.log(`Request to ${baseHost}/control?var=${el.id}&val=${value} finished, status: ${response.status}`));
+            }
+
+            document.querySelectorAll('.close').forEach(el => {
+                el.onclick = () => hide(el.parentNode);
+            });
+
+            fetch(`${baseHost}/status`)
+                .then(response => response.json())
+                .then(state => {
+                    document.querySelectorAll('.default-action').forEach(el => {
+                        updateValue(el, state[el.id], false);
+                    });
+                });
+
+            const view = document.getElementById('stream');
+            const viewContainer = document.getElementById('stream-container');
+            const stillButton = document.getElementById('get-still');
+            const streamButton = document.getElementById('toggle-stream');
+            const enrollButton = document.getElementById('face_enroll');
+            const closeButton = document.getElementById('close-stream');
+
+            const stopStream = () => {
+                window.stop();
+                streamButton.innerHTML = 'Start Stream';
+                hide(viewContainer);
+            };
+
+            const startStream = () => {
+                view.src = `${streamUrl}/stream`;
+                show(viewContainer);
+                streamButton.innerHTML = 'Stop Stream';
+            };
+
+            stillButton.onclick = () => {
+                stopStream();
+                view.src = `${baseHost}/capture?_cb=${Date.now()}`;
+                show(viewContainer);
+            };
+
+            closeButton.onclick = stopStream;
+
+            streamButton.onclick = () => {
+                const streamEnabled = streamButton.innerHTML === 'Stop Stream';
+                if (streamEnabled) {
+                    stopStream();
+                } else {
+                    startStream();
+                }
+            };
+
+            enrollButton.onclick = () => updateConfig(enrollButton);
+
+            document.querySelectorAll('.default-action').forEach(el => {
+                el.onchange = () => updateConfig(el);
+            });
+
+            const detect = document.getElementById('face_detect');
+            const recognize = document.getElementById('face_recognize');
+            const framesize = document.getElementById('framesize');
+
+            // Thêm xử lý nút lưu ảnh
+            document.getElementById('save-image').onclick = () => {
+                fetch('/capture')
+                    .then(response => response.blob())
+                    .then(blob => {
+                        const url = window.URL.createObjectURL(blob);
+                        const a = document.createElement('a');
+                        a.href = url;
+                        a.download = `capture_${new Date().toISOString()}.jpg`;
+                        document.body.appendChild(a);
+                        a.click();
+                        window.URL.revokeObjectURL(url);
+                        document.body.removeChild(a);
+                    })
+                    .catch(error => console.error('Error:', error));
+            };
+
+            framesize.onchange = () => {
+                updateConfig(framesize);
+                if (framesize.value > 5) {
+                    updateValue(detect, false);
+                    updateValue(recognize, false);
+                }
+            };
+
+            detect.onchange = () => {
+                if (framesize.value > 5) {
+                    alert('Please select CIF or lower resolution before enabling this feature!');
+                    updateValue(detect, false);
+                    return;
+                }
+                updateConfig(detect);
+                if (!detect.checked) {
+                    disable(enrollButton);
+                    updateValue(recognize, false);
+                }
+            };
+
+            recognize.onchange = () => {
+                if (framesize.value > 5) {
+                    alert('Please select CIF or lower resolution before enabling this feature!');
+                    updateValue(recognize, false);
+                    return;
+                }
+                updateConfig(recognize);
+                if (recognize.checked) {
+                    enable(enrollButton);
+                    updateValue(detect, true);
+                } else {
+                    disable(enrollButton);
+                }
+            };
+
+            // Thêm xử lý nút lưu cài đặt
+            document.getElementById('saveCleanupSettings').addEventListener('click', function() {
+                const maxImages = document.getElementById('maxImages').value;
+                const maxStorageMB = document.getElementById('maxStorageMB').value;
+                const cleanupInterval = document.getElementById('cleanupInterval').value;
+                
+                // Validate input values
+                if (maxImages < 1 || maxImages > 1000) {
+                    alert("Maximum Images must be between 1 and 1000");
+                    return;
+                }
+                if (maxStorageMB < 1 || maxStorageMB > 1000) {
+                    alert("Maximum Storage must be between 1 and 1000 MB");
+                    return;
+                }
+                if (cleanupInterval < 1 || cleanupInterval > 1440) {
+                    alert("Cleanup Interval must be between 1 and 1440 minutes");
+                    return;
+                }
+                
+                const saveButton = document.getElementById('saveCleanupSettings');
+                saveButton.disabled = true;
+                saveButton.textContent = 'Saving...';
+                
+                const promises = [
+                    fetch(`/sd-cleanup-config?var=maxImages&val=${maxImages}`),
+                    fetch(`/sd-cleanup-config?var=maxStorageMB&val=${maxStorageMB}`),
+                    fetch(`/sd-cleanup-config?var=cleanupInterval&val=${cleanupInterval}`)
+                ];
+                
+                Promise.all(promises)
+                    .then(responses => Promise.all(responses.map(r => r.json())))
+                    .then(data => {
+                        const allSuccess = data.every(item => item.status === "success");
+                        if (allSuccess) {
+                            alert(`Settings saved successfully!\n\nMaximum Images: ${maxImages}\nMaximum Storage: ${maxStorageMB} MB\nCleanup Interval: ${cleanupInterval} minutes`);
+                        } else {
+                            const errorItem = data.find(item => item.status !== "success");
+                            alert("Error saving settings: " + (errorItem ? errorItem.message : "Unknown error"));
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        alert("Error saving settings: " + error.message);
+                    })
+                    .finally(() => {
+                        saveButton.disabled = false;
+                        saveButton.textContent = 'Save Settings';
+                    });
+            });
+        });
+    </script>
+</body>
+</html>
+"""
+
+# Định dạng lại và nén HTML
+hex_compressed_html = format_and_compress_html_to_hex(html_code)
+
+# Ghi ra file text
+with open("facemotion.txt", "w") as f:
+    f.write(hex_compressed_html)
+
+print("HTML đã được làm sạch, định dạng, nén và lưu vào 'compressed_html_hex.txt'")
