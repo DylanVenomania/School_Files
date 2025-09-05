@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\BaiTap\\BaitapKetnoiDatabase\\BTKetnoiDatabase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{475CA1AC-A0C3-4AB4-987C-04F23F9E0831}|BTKetnoiDatabase\\BTKetnoiDatabase.csproj|e:\\school_files\\nam3_2025_2026\\hocki1\\hequantricosodulieu\\baitap\\baitapketnoidatabase\\btketnoidatabase\\btketnoidatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{475CA1AC-A0C3-4AB4-987C-04F23F9E0831}|BTKetnoiDatabase\\BTKetnoiDatabase.csproj|solutionrelative:btketnoidatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{475CA1AC-A0C3-4AB4-987C-04F23F9E0831}|BTKetnoiDatabase\\BTKetnoiDatabase.csproj|e:\\school_files\\nam3_2025_2026\\hocki1\\hequantricosodulieu\\baitap\\baitapketnoidatabase\\btketnoidatabase\\btketnoidatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{475CA1AC-A0C3-4AB4-987C-04F23F9E0831}|BTKetnoiDatabase\\BTKetnoiDatabase.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\BaiTap\\BaitapKetnoiDatabase\\BTKetnoiDatabase\\btketnoidatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{475CA1AC-A0C3-4AB4-987C-04F23F9E0831}|BTKetnoiDatabase\\BTKetnoiDatabase.csproj|solutionrelative:btketnoidatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{475CA1AC-A0C3-4AB4-987C-04F23F9E0831}|BTKetnoiDatabase\\BTKetnoiDatabase.csproj|e:\\school_files\\nam3_2025_2026\\hocki1\\hequantricosodulieu\\baitap\\baitapketnoidatabase\\btketnoidatabase\\btketnoidatabase\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{475CA1AC-A0C3-4AB4-987C-04F23F9E0831}|BTKetnoiDatabase\\BTKetnoiDatabase.csproj|solutionrelative:btketnoidatabase\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475CA1AC-A0C3-4AB4-987C-04F23F9E0831}|BTKetnoiDatabase\\BTKetnoiDatabase.csproj|e:\\school_files\\nam3_2025_2026\\hocki1\\hequantricosodulieu\\baitap\\baitapketnoidatabase\\btketnoidatabase\\btketnoidatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475CA1AC-A0C3-4AB4-987C-04F23F9E0831}|BTKetnoiDatabase\\BTKetnoiDatabase.csproj|solutionrelative:btketnoidatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,25 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\BaiTap\\BaitapKetnoiDatabase\\BTKetnoiDatabase\\BTKetnoiDatabase\\Form1.cs",
               "RelativeDocumentMoniker": "BTKetnoiDatabase\\Form1.cs",
               "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\BaiTap\\BaitapKetnoiDatabase\\BTKetnoiDatabase\\BTKetnoiDatabase\\Form1.cs",
               "RelativeToolTip": "BTKetnoiDatabase\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T03:04:20.582Z",
               "EditorCaption": ""
@@ -48,18 +44,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\BaiTap\\BaitapKetnoiDatabase\\BTKetnoiDatabase\\BTKetnoiDatabase\\Form1.cs",
-              "RelativeDocumentMoniker": "BTKetnoiDatabase\\Form1.cs",
-              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\BaiTap\\BaitapKetnoiDatabase\\BTKetnoiDatabase\\BTKetnoiDatabase\\Form1.cs [Design]",
-              "RelativeToolTip": "BTKetnoiDatabase\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T03:00:07.07Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\BaiTap\\BaitapKetnoiDatabase\\BTKetnoiDatabase\\BTKetnoiDatabase\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "BTKetnoiDatabase\\Form1.Designer.cs",
@@ -69,6 +53,22 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T03:00:04.404Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\BaiTap\\BaitapKetnoiDatabase\\BTKetnoiDatabase\\BTKetnoiDatabase\\Form1.cs",
+              "RelativeDocumentMoniker": "BTKetnoiDatabase\\Form1.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\BaiTap\\BaitapKetnoiDatabase\\BTKetnoiDatabase\\BTKetnoiDatabase\\Form1.cs [Design]",
+              "RelativeToolTip": "BTKetnoiDatabase\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:00:07.07Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
