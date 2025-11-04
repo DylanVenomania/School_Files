@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|e:\\school_files\\nam3_2025_2026\\hocki1\\hequantricosodulieu\\project\\quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\frmquanlyghengoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\frmquanlyghengoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\frmquanlyghengoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\frmquanlyghengoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\frmquanlylichsuhoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\frmquanlylichsuhoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\frmquanlylichsuhoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\frmquanlylichsuhoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\frmquanlythietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\frmquanlythietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\frmquanlyphongchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\frmquanlyphongchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\frmquanlyphongchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\frmquanlyphongchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\quanlycosovatchat_rapchieuphim\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{325B5E84-6A11-4440-9CE3-DC606D3F52D6}|Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim.csproj|solutionrelative:quanlycosovatchat_rapchieuphim\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBaoCao.cs [Design]",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\frmBaoCao.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmBaoCao.cs [Design]",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\frmBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:40:16.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmQuanLyGheNgoi.cs",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyGheNgoi.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\frmQuanLyGheNgoi.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyGheNgoi.cs",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\frmQuanLyGheNgoi.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAALYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T02:46:54.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmQuanLyGheNgoi.cs [Design]",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyGheNgoi.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\frmQuanLyGheNgoi.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyGheNgoi.cs [Design]",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\frmQuanLyGheNgoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T02:46:51.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmQuanLyLichSuHoatDong.cs",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyLichSuHoatDong.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\frmQuanLyLichSuHoatDong.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyLichSuHoatDong.cs",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\frmQuanLyLichSuHoatDong.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwDkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T02:17:33.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmQuanLyLichSuHoatDong.cs [Design]",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyLichSuHoatDong.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\frmQuanLyLichSuHoatDong.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyLichSuHoatDong.cs [Design]",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\frmQuanLyLichSuHoatDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T02:17:29.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\MainForm.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\MainForm.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\MainForm.cs [Design]",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:30:05.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBaoCao.cs",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\frmBaoCao.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmBaoCao.cs",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\frmBaoCao.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:40:19.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmQuanLyThietBi.cs",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyThietBi.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\frmQuanLyThietBi.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyThietBi.cs",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\frmQuanLyThietBi.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA8wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:38:05.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmQuanLyPhongChieu.cs",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyPhongChieu.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\frmQuanLyPhongChieu.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyPhongChieu.cs",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\frmQuanLyPhongChieu.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:34:13.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmQuanLyPhongChieu.cs [Design]",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyPhongChieu.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\frmQuanLyPhongChieu.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmQuanLyPhongChieu.cs [Design]",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\frmQuanLyPhongChieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:34:10.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "Quanlycosovatchat_rapchieuphim\\frmDangNhap.cs",
+              "ToolTip": "E:\\School_Files\\Nam3_2025_2026\\Hocki1\\Hequantricosodulieu\\Project\\Quanlycosovatchat_rapchieuphim\\Quanlycosovatchat_rapchieuphim\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "Quanlycosovatchat_rapchieuphim\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:34:08.092Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
